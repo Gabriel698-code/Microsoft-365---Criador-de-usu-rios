@@ -16,7 +16,7 @@ Um script que consome uma planilha `.csv` padrão exportada pelo RH e provisiona
 * **Tratamento de Exceções (Try/Catch):** Se a criação de um usuário falhar, o script isola o erro, avisa no console e continua processando os demais funcionários da lista sem "quebrar".
 
 ## 📂 Estrutura dos Arquivos
-* `Bulk-Create-M365-Users.ps1`: O script principal em PowerShell.
+* `criador de usários.ps1`: O script principal em PowerShell.
 * `Exemplo-NovosUsuarios.csv`: Arquivo de exemplo demonstrando a formatação exigida pela automação.
 
 ## 🛠️ Como Utilizar
